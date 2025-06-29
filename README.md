@@ -29,3 +29,10 @@ En este proyecto pude profundizar mucho mas sobre el uso de flutter y lo diverti
 
 
 
+
+## Authors
+
+- [@CHR-35](https://www.github.com/CHR-35)
+
+## ¡Gracias por visitar mi portafolio! ⭐
+
