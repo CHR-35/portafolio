@@ -13,21 +13,12 @@ En este proyecto pude profundizar mucho mas sobre el uso de flutter y lo diverti
 - Modo oscuro para una mejor experiencia visual.
 - Organización modular usando rutas dinámicas.
 
-## 📸 Capturas de pantalla
-
-| Pantalla Principal | ¿Quién soy? | Hobbies | Firma |
-|--------------------|-------------|---------||-------|
-| ![Home](screenshots/home.png) | ![About](screenshots/about.png) | ![Hobbies](screenshots/hobbies.png) | ![Signature](screenshots/signature.png) |
-
-
 ## 🛠️ Tecnologías Utilizadas
 
 - **Flutter** 
 - **Dart**
 - Material Design
 - Android Emulator (o dispositivo físico)
-
-
 
 
 ## Authors
