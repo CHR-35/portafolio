@@ -1,16 +1,35 @@
-# portafolio
+# 📱 Mi Portafolio Flutter
 
-A new Flutter project.
+Este es el primer proyecto de programación III desarrollado en Flutter sobre un portafolio que muestra información sobre mí, mis hobbies y una pantalla de firma personalizada. Está diseñado con una interfaz limpia y moderna en modo oscuro.
 
-## Getting Started
+En este proyecto pude profundizar mucho mas sobre el uso de flutter y lo divertido que es!
 
-This project is a starting point for a Flutter application.
+## 🌟 Características
 
-A few resources to get you started if this is your first Flutter project:
+- Página principal con foto de perfil y navegación.
+- Pantalla "¿Quién soy?" con detalles personales como mi nacimiento, el lugar en donde resido y mi universidad.
+- Pantalla de hobbies con íconos y descripciones.
+- Pantalla de firma para capturar una firma digital.
+- Modo oscuro para una mejor experiencia visual.
+- Organización modular usando rutas dinámicas.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Capturas de pantalla
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Pantalla Principal | ¿Quién soy? | Hobbies | Firma |
+|--------------------|-------------|---------||-------|
+| ![Home](screenshots/home.png) | ![About](screenshots/about.png) | ![Hobbies](screenshots/hobbies.png) | ![Signature](screenshots/signature.png) |
+
+
+---
+
+> *(Agrega las imágenes en la carpeta `/screenshots/` si quieres que se vean directamente en GitHub)*
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Flutter** 
+- **Dart**
+- Material Design
+- Android Emulator (o dispositivo físico)
+
+
+
