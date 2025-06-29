@@ -20,10 +20,6 @@ En este proyecto pude profundizar mucho mas sobre el uso de flutter y lo diverti
 | ![Home](screenshots/home.png) | ![About](screenshots/about.png) | ![Hobbies](screenshots/hobbies.png) | ![Signature](screenshots/signature.png) |
 
 
----
-
-> *(Agrega las imágenes en la carpeta `/screenshots/` si quieres que se vean directamente en GitHub)*
-
 ## 🛠️ Tecnologías Utilizadas
 
 - **Flutter** 
